@@ -1,0 +1,23 @@
+In fisierul Maps se creeaza manual MapX.txt, X fiind nivelul pe care doresti sa-l faci. (ex. Map1.txt)
+In acel fisier se pune cate un 0 pe fiecare rand, si pe ultimul rand al fisierului  numarul de numere va determina lungimea hartii.
+Ex:
+0
+0
+0
+0
+...
+0
+1 1 1 0 0 0 0 ... 0
+
+Am pus 1 pe primele elemente ale ultimei linii pentru a avea blockuri in coltul de stanga jos.
+Astfel daca punem in fisierul positions.txt pe randul X (X este nivelul) valorile 1000 300, Anastasia va aparea la (1000,300).
+Dupa se incepe crearea de harti in joc, setand Run(X) sau Level = X sau in fisierul Info primul element fiind nivelul, se inlocuieste cu X.
+
+In fisierul Info.txt:
+Nivel actual
+Viata,Gloante,Monezi.
+Coordonate referitoare la ultimul deces (X,Y)
+
+In fisierul positions.txt:
+Pozitia de inceput a Anastasiei pentru nivelul i (X,Y), pozitia de final de nivel (X,Y), urmatorul element 0,1 sau 2
+(1- soare la nivelul i, 2- luna, 0- nimic),urmatorul element 0 sau 1 ( fara /cu ploaie) si 3 valori A B C ce determina culoarea fundalului al_map_rgb(A,B,C).

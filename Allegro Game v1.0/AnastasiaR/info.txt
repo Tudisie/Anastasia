@@ -1,0 +1,7 @@
+1 - 10 = idle
+11 - 20 = dead
+21 - 28 = run
+29 - 38 = jump
+39 - 45 = melee
+46 - 48 = shoot
+49 - 53 = slide

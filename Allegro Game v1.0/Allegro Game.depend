@@ -1,0 +1,205 @@
+# depslib dependency file v1.0
+1514550159 source:d:\allegro game\main.cpp
+	"init.h"
+	"intro.h"
+	"beg.h"
+	"ending.h"
+
+1511640351 d:\allegro game\intro.h
+
+1513285034 d:\allegro game\color.h
+
+1514888773 d:\allegro game\init.h
+	<allegro5/allegro5.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<vector>
+	<sstream>
+	<iostream>
+	"color.h"
+	"images.h"
+	"map.h"
+
+1514842428 d:\allegro game\beg.h
+	"Game.h"
+	"creativemode.h"
+	"tutorial.h"
+	"Options.h"
+	"Story.h"
+	"beg2.h"
+
+1514888994 d:\allegro game\game.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<cstring>
+	"cameraeffects.h"
+	"Story.h"
+	"movement.h"
+
+1514889324 d:\allegro game\options.h
+
+1512508504 d:\allegro game\story.h
+	"text.h"
+
+1514664207 d:\allegro game\ending.h
+
+1510951680 d:\allegro game\loadmap.h
+	<fstream>
+
+1514883750 d:\allegro game\map.h
+	<fstream>
+
+1513021308 d:\allegro game\ynq.h
+
+1511456170 d:\allegro game\cameraeffects.h
+
+1514882742 d:\allegro game\images.h
+
+1512509075 d:\allegro game\text.h
+
+1514888285 d:\allegro game\movement.h
+	<iostream>
+	"shop.h"
+	"interact.h"
+	"edit.h"
+
+1512136728 source:e:\allegro game p5\main.cpp
+	"init.h"
+	"intro.h"
+	"beg.h"
+	"ending.h"
+
+1512297953 e:\allegro game p5\init.h
+	<allegro5/allegro5.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<cstring>
+	<sstream>
+	"color.h"
+	"images.h"
+	"map.h"
+
+1511707881 e:\allegro game p5\color.h
+
+1512299702 e:\allegro game p5\images.h
+
+1512298680 e:\allegro game p5\map.h
+	<fstream>
+
+1511640351 e:\allegro game p5\intro.h
+
+1512136632 e:\allegro game p5\beg.h
+	"Game.h"
+	"Options.h"
+	"Story.h"
+
+1512300903 e:\allegro game p5\game.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<cstring>
+	"cameraeffects.h"
+	"YNQ.h"
+	"movement.h"
+
+1511456170 e:\allegro game p5\cameraeffects.h
+
+1511710096 e:\allegro game p5\ynq.h
+
+1512300903 e:\allegro game p5\movement.h
+
+1511648140 e:\allegro game p5\options.h
+
+1511708821 e:\allegro game p5\story.h
+	"text.h"
+
+1511709439 e:\allegro game p5\text.h
+
+1511214351 e:\allegro game p5\ending.h
+
+1513349483 d:\allegro game\beg2.h
+	"beg3.h"
+
+1513813617 d:\allegro game\creativemode.h
+
+1514812348 d:\allegro game\tutorial.h
+
+1512136728 source:d:\allegro gam\main.cpp
+	"init.h"
+	"intro.h"
+	"beg.h"
+	"ending.h"
+
+1512594651 d:\allegro gam\init.h
+	<allegro5/allegro5.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<cstring>
+	<vector>
+	<sstream>
+	"color.h"
+	"images.h"
+	"map.h"
+
+1512341325 d:\allegro gam\color.h
+
+1512665619 d:\allegro gam\images.h
+
+1512665297 d:\allegro gam\map.h
+	<fstream>
+
+1511640351 d:\allegro gam\intro.h
+
+1512508685 d:\allegro gam\beg.h
+	"Game.h"
+	"creativemode.h"
+	"tutorial.h"
+	"Options.h"
+	"Story.h"
+	"beg2.h"
+
+1512665619 d:\allegro gam\game.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<cstring>
+	"cameraeffects.h"
+	"YNQ.h"
+	"movement.h"
+
+1511456170 d:\allegro gam\cameraeffects.h
+
+1512581331 d:\allegro gam\ynq.h
+
+1512665837 d:\allegro gam\movement.h
+
+1512596757 d:\allegro gam\creativemode.h
+
+1512341047 d:\allegro gam\tutorial.h
+
+1512341636 d:\allegro gam\options.h
+
+1512508504 d:\allegro gam\story.h
+	"text.h"
+
+1512509075 d:\allegro gam\text.h
+
+1512510077 d:\allegro gam\beg2.h
+
+1511214351 d:\allegro gam\ending.h
+
+1514884402 d:\allegro game\interact.h
+
+1514883733 d:\allegro game\edit.h
+
+1514627853 d:\allegro game\shop.h
+
+1513350309 d:\allegro game\beg3.h
+
